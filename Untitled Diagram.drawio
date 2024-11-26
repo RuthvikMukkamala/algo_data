@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.9.1">
   <diagram name="Page-1" id="fc2ac565-0d4e-3f0d-88b0-a54af1634ed7">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="100" value="Task 6" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="297.0000000000006" y="250.00000000000057" width="319.9999999999994" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="Task Name" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="2" value="Schedule Allocation" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="297" y="130" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="67c90442a009f359-289" value="Task 6" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
